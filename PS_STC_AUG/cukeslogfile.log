@@ -1008,3 +1008,382 @@
 2020-09-01 20:57:50,802 INFO  [Log] **************************************************************************************** 
 2020-09-01 20:57:50,802 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
 2020-09-01 20:57:50,803 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:38:17,517 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:38:17,517 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 21:38:17,518 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:38:17,518 INFO  [Log] initialising properties.. 
+2020-09-07 21:38:17,518 INFO  [Log] Properties initialised! 
+2020-09-07 21:38:17,518 INFO  [Log] opening browser.. 
+2020-09-07 21:38:17,518 INFO  [Log] Chrome.. 
+2020-09-07 21:38:24,332 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 21:38:25,500 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 21:38:25,500 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:38:25,501 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 21:38:25,501 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:39:32,057 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:39:32,058 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 21:39:32,059 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:39:32,059 INFO  [Log] initialising properties.. 
+2020-09-07 21:39:32,059 INFO  [Log] Properties initialised! 
+2020-09-07 21:39:32,059 INFO  [Log] opening browser.. 
+2020-09-07 21:39:32,059 INFO  [Log] Chrome.. 
+2020-09-07 21:39:38,628 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 21:39:39,952 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 21:39:39,952 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:39:39,952 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 21:39:39,953 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:54:31,468 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:54:31,469 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 21:54:31,469 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:54:31,469 INFO  [Log] initialising properties.. 
+2020-09-07 21:54:31,469 INFO  [Log] Properties initialised! 
+2020-09-07 21:54:31,469 INFO  [Log] opening browser.. 
+2020-09-07 21:54:31,469 INFO  [Log] Chrome.. 
+2020-09-07 21:54:37,832 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 21:54:38,732 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 21:54:38,732 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 21:54:39,887 INFO  [Log] User is on the Search page 
+2020-09-07 21:54:39,888 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 21:54:39,888 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:54:39,888 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 21:54:39,888 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:55:44,176 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:55:44,177 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 21:55:44,177 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:55:44,177 INFO  [Log] initialising properties.. 
+2020-09-07 21:55:44,177 INFO  [Log] Properties initialised! 
+2020-09-07 21:55:44,177 INFO  [Log] opening browser.. 
+2020-09-07 21:55:44,177 INFO  [Log] Chrome.. 
+2020-09-07 21:55:50,427 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 21:55:51,351 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 21:55:51,352 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 21:55:52,433 INFO  [Log] User is on the Search page 
+2020-09-07 21:55:52,433 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 21:55:52,433 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:55:52,433 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 21:55:52,434 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:57:04,380 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:57:04,381 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 21:57:04,381 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:57:04,381 INFO  [Log] initialising properties.. 
+2020-09-07 21:57:04,381 INFO  [Log] Properties initialised! 
+2020-09-07 21:57:04,381 INFO  [Log] opening browser.. 
+2020-09-07 21:57:04,381 INFO  [Log] Chrome.. 
+2020-09-07 21:57:10,750 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 21:57:12,551 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 21:57:12,552 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 21:57:12,814 INFO  [Log] User is on the Search page 
+2020-09-07 21:57:12,815 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 21:57:12,815 INFO  [Log] **************************************************************************************** 
+2020-09-07 21:57:12,815 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 21:57:12,815 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:07:28,448 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:07:28,449 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 22:07:28,449 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:07:28,449 INFO  [Log] initialising properties.. 
+2020-09-07 22:07:28,449 INFO  [Log] Properties initialised! 
+2020-09-07 22:07:28,449 INFO  [Log] opening browser.. 
+2020-09-07 22:07:28,449 INFO  [Log] Chrome.. 
+2020-09-07 22:07:34,669 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 22:07:36,428 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 22:07:36,428 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 22:07:36,653 INFO  [Log] User is on the Search page 
+2020-09-07 22:07:36,653 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 22:07:36,653 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 22:07:36,748 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 22:07:36,748 INFO  [Log] Entering data - <product> into + searchTextBox 
+2020-09-07 22:07:36,989 INFO  [Log] Clicking object - searchButton 
+2020-09-07 22:07:37,125 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 22:07:37,125 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:07:37,125 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 22:07:37,125 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:08:45,394 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:08:45,395 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 22:08:45,395 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:08:45,395 INFO  [Log] initialising properties.. 
+2020-09-07 22:08:45,395 INFO  [Log] Properties initialised! 
+2020-09-07 22:08:45,395 INFO  [Log] opening browser.. 
+2020-09-07 22:08:45,395 INFO  [Log] Chrome.. 
+2020-09-07 22:08:51,618 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 22:08:53,666 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 22:08:53,666 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 22:08:53,743 INFO  [Log] User is on the Search page 
+2020-09-07 22:08:53,743 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 22:08:53,743 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 22:08:55,238 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 22:08:55,238 INFO  [Log] Entering data - <product> into + searchTextBox 
+2020-09-07 22:08:55,418 INFO  [Log] Clicking object - searchButton 
+2020-09-07 22:09:38,769 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:09:38,770 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 22:09:38,770 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:09:38,770 INFO  [Log] initialising properties.. 
+2020-09-07 22:09:38,770 INFO  [Log] Properties initialised! 
+2020-09-07 22:09:38,770 INFO  [Log] opening browser.. 
+2020-09-07 22:09:38,770 INFO  [Log] Chrome.. 
+2020-09-07 22:09:45,123 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 22:09:46,012 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 22:09:46,012 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 22:09:46,930 INFO  [Log] User is on the Search page 
+2020-09-07 22:09:46,930 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 22:09:46,931 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 22:09:48,615 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 22:09:48,615 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-07 22:09:48,811 INFO  [Log] Clicking object - searchButton 
+2020-09-07 22:09:53,957 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 22:09:53,957 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:09:53,957 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 22:09:53,957 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:15:32,307 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:15:32,308 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 22:15:32,308 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:15:32,308 INFO  [Log] initialising properties.. 
+2020-09-07 22:15:32,308 INFO  [Log] Properties initialised! 
+2020-09-07 22:15:32,309 INFO  [Log] opening browser.. 
+2020-09-07 22:15:32,309 INFO  [Log] Chrome.. 
+2020-09-07 22:15:38,610 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 22:15:39,817 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 22:15:39,817 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 22:15:40,495 INFO  [Log] User is on the Search page 
+2020-09-07 22:15:40,495 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 22:15:40,495 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 22:15:41,980 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 22:15:41,980 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-07 22:15:42,186 INFO  [Log] Clicking object - searchButton 
+2020-09-07 22:15:48,866 INFO  [Log] Selecting the first Product link from search results 
+2020-09-07 22:15:48,866 INFO  [Log] Clicking object - firstProductLink 
+2020-09-07 22:15:54,983 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 22:15:54,983 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:15:54,984 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 22:15:54,984 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:29:00,973 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:29:00,974 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 22:29:00,974 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:29:00,974 INFO  [Log] initialising properties.. 
+2020-09-07 22:29:00,974 INFO  [Log] Properties initialised! 
+2020-09-07 22:29:00,974 INFO  [Log] opening browser.. 
+2020-09-07 22:29:00,974 INFO  [Log] Chrome.. 
+2020-09-07 22:29:07,361 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 22:29:08,839 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 22:29:08,839 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 22:29:11,273 INFO  [Log] User is on the Search page 
+2020-09-07 22:29:11,273 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 22:29:11,273 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 22:29:11,377 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 22:29:11,377 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-07 22:29:11,572 INFO  [Log] Clicking object - searchButton 
+2020-09-07 22:29:17,816 INFO  [Log] Add the first Product from search results to the product basket 
+2020-09-07 22:29:17,816 INFO  [Log] Clicking object - firstProductaddToBasketButton 
+2020-09-07 22:29:23,102 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 22:29:23,102 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:29:23,102 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 22:29:23,102 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:29:42,843 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:29:42,843 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 22:29:42,843 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:29:42,843 INFO  [Log] initialising properties.. 
+2020-09-07 22:29:42,843 INFO  [Log] Properties initialised! 
+2020-09-07 22:29:42,843 INFO  [Log] opening browser.. 
+2020-09-07 22:29:42,844 INFO  [Log] Chrome.. 
+2020-09-07 22:29:49,215 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 22:29:50,694 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 22:29:50,694 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 22:29:51,291 INFO  [Log] User is on the Search page 
+2020-09-07 22:29:51,291 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 22:29:51,291 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 22:29:52,870 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 22:29:52,870 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-07 22:29:53,138 INFO  [Log] Clicking object - searchButton 
+2020-09-07 22:29:59,539 INFO  [Log] Add the first Product from search results to the product basket 
+2020-09-07 22:29:59,539 INFO  [Log] Clicking object - firstProductaddToBasketButton 
+2020-09-07 22:30:04,827 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 22:30:04,827 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:30:04,827 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 22:30:04,827 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:55:49,965 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:55:49,966 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 22:55:49,967 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:55:49,967 INFO  [Log] initialising properties.. 
+2020-09-07 22:55:49,967 INFO  [Log] Properties initialised! 
+2020-09-07 22:55:49,967 INFO  [Log] opening browser.. 
+2020-09-07 22:55:49,967 INFO  [Log] Chrome.. 
+2020-09-07 22:55:56,713 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 22:55:58,114 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 22:55:58,115 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 22:55:58,629 INFO  [Log] User is on the Search page 
+2020-09-07 22:55:58,629 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 22:55:58,629 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 22:55:59,686 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 22:55:59,686 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-07 22:56:00,884 INFO  [Log] Clicking object - searchButton 
+2020-09-07 22:56:07,207 INFO  [Log] Adding the first Product from search results to the product basket 
+2020-09-07 22:56:07,207 INFO  [Log] Clicking object - firstProductaddToBasketButton 
+2020-09-07 22:56:12,403 INFO  [Log] Click on Product Basket 
+2020-09-07 22:56:12,403 INFO  [Log] Clicking object - firstProductaddToBasketButton 
+2020-09-07 22:56:17,593 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 22:56:17,593 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:56:17,593 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 22:56:17,594 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:57:54,123 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:57:54,124 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 22:57:54,124 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:57:54,124 INFO  [Log] initialising properties.. 
+2020-09-07 22:57:54,124 INFO  [Log] Properties initialised! 
+2020-09-07 22:57:54,124 INFO  [Log] opening browser.. 
+2020-09-07 22:57:54,124 INFO  [Log] Chrome.. 
+2020-09-07 22:58:00,496 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 22:58:01,568 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 22:58:01,568 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 22:58:02,228 INFO  [Log] User is on the Search page 
+2020-09-07 22:58:02,228 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 22:58:02,229 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 22:58:03,794 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 22:58:03,794 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-07 22:58:04,603 INFO  [Log] Clicking object - searchButton 
+2020-09-07 22:58:11,009 INFO  [Log] Adding the first Product from search results to the product basket 
+2020-09-07 22:58:11,009 INFO  [Log] Clicking object - firstProductaddToBasketButton 
+2020-09-07 22:58:16,285 INFO  [Log] Click on Product Basket 
+2020-09-07 22:58:16,285 INFO  [Log] Clicking object - productBasketLink 
+2020-09-07 22:58:16,315 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 22:58:16,315 INFO  [Log] **************************************************************************************** 
+2020-09-07 22:58:16,315 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 22:58:16,315 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:01:44,318 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:01:44,318 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 23:01:44,319 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:01:44,319 INFO  [Log] initialising properties.. 
+2020-09-07 23:01:44,319 INFO  [Log] Properties initialised! 
+2020-09-07 23:01:44,319 INFO  [Log] opening browser.. 
+2020-09-07 23:01:44,319 INFO  [Log] Chrome.. 
+2020-09-07 23:01:50,649 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 23:01:51,764 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 23:01:51,764 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 23:01:52,737 INFO  [Log] User is on the Search page 
+2020-09-07 23:01:52,738 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 23:01:52,738 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 23:01:54,656 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 23:01:54,656 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-07 23:01:54,872 INFO  [Log] Clicking object - searchButton 
+2020-09-07 23:02:01,246 INFO  [Log] Adding the first Product from search results to the product basket 
+2020-09-07 23:02:01,247 INFO  [Log] Clicking object - firstProductaddToBasketButton 
+2020-09-07 23:02:06,572 INFO  [Log] Click on Product Basket 
+2020-09-07 23:02:06,572 INFO  [Log] Clicking object - productBasketLink 
+2020-09-07 23:02:12,887 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 23:02:12,888 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:02:12,888 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 23:02:12,889 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:21:47,115 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:21:47,116 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 23:21:47,116 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:21:47,116 INFO  [Log] initialising properties.. 
+2020-09-07 23:21:47,116 INFO  [Log] Properties initialised! 
+2020-09-07 23:21:47,116 INFO  [Log] opening browser.. 
+2020-09-07 23:21:47,116 INFO  [Log] Chrome.. 
+2020-09-07 23:21:53,422 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 23:21:55,010 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 23:21:55,011 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 23:21:55,696 INFO  [Log] User is on the Search page 
+2020-09-07 23:21:55,697 INFO  [Log] Search for the product 
+2020-09-07 23:21:55,697 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 23:21:55,697 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 23:21:57,366 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 23:21:57,366 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-07 23:21:57,610 INFO  [Log] Clicking object - searchButton 
+2020-09-07 23:22:03,907 INFO  [Log] Add the first product from search results to the basket 
+2020-09-07 23:22:03,907 INFO  [Log] Adding the first Product from search results to the product basket 
+2020-09-07 23:22:03,908 INFO  [Log] Clicking object - firstProductaddToBasketButton 
+2020-09-07 23:22:09,196 INFO  [Log] Open the basket to validate the results 
+2020-09-07 23:22:09,196 INFO  [Log] Click on Product Basket 
+2020-09-07 23:22:09,196 INFO  [Log] Clicking object - productBasketLink 
+2020-09-07 23:22:16,060 INFO  [Log] Verifying partial text - productNameBasketLabel 
+2020-09-07 23:22:16,344 INFO  [Log] Product has been added successfully to the basket 
+2020-09-07 23:22:16,344 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 23:22:16,344 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:22:16,344 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 23:22:16,345 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:22:46,514 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:22:46,515 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-07 23:22:46,515 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:22:46,515 INFO  [Log] initialising properties.. 
+2020-09-07 23:22:46,515 INFO  [Log] Properties initialised! 
+2020-09-07 23:22:46,515 INFO  [Log] opening browser.. 
+2020-09-07 23:22:46,515 INFO  [Log] Chrome.. 
+2020-09-07 23:22:52,873 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-07 23:22:54,425 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-07 23:22:54,425 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-07 23:22:54,923 INFO  [Log] User is on the Search page 
+2020-09-07 23:22:54,925 INFO  [Log] Search for the product 
+2020-09-07 23:22:54,925 INFO  [Log] Check if the Search box is loaded 
+2020-09-07 23:22:54,925 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-07 23:22:55,242 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-07 23:22:55,242 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-07 23:22:56,961 INFO  [Log] Clicking object - searchButton 
+2020-09-07 23:23:03,067 INFO  [Log] Add the first product from search results to the basket 
+2020-09-07 23:23:03,067 INFO  [Log] Adding the first Product from search results to the product basket 
+2020-09-07 23:23:03,068 INFO  [Log] Clicking object - firstProductaddToBasketButton 
+2020-09-07 23:23:08,339 INFO  [Log] Open the basket to validate the results 
+2020-09-07 23:23:08,339 INFO  [Log] Click on Product Basket 
+2020-09-07 23:23:08,340 INFO  [Log] Clicking object - productBasketLink 
+2020-09-07 23:23:16,345 INFO  [Log] Verifying partial text - productNameBasketLabel 
+2020-09-07 23:23:16,561 INFO  [Log] Product has been added successfully to the basket 
+2020-09-07 23:23:16,561 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-07 23:23:16,561 INFO  [Log] **************************************************************************************** 
+2020-09-07 23:23:16,561 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-07 23:23:16,561 INFO  [Log] **************************************************************************************** 
+2020-09-08 20:35:35,892 INFO  [Log] **************************************************************************************** 
+2020-09-08 20:35:35,897 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-08 20:35:35,897 INFO  [Log] **************************************************************************************** 
+2020-09-08 20:35:35,897 INFO  [Log] initialising properties.. 
+2020-09-08 20:35:35,897 INFO  [Log] Properties initialised! 
+2020-09-08 20:35:35,897 INFO  [Log] opening browser.. 
+2020-09-08 20:35:35,897 INFO  [Log] Chrome.. 
+2020-09-08 20:35:42,249 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-08 20:35:43,757 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-08 20:35:43,757 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-08 20:35:45,360 INFO  [Log] User is on the Search page 
+2020-09-08 20:35:45,360 INFO  [Log] Search for the product 
+2020-09-08 20:35:45,360 INFO  [Log] Check if the Search box is loaded 
+2020-09-08 20:35:45,360 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-08 20:35:47,856 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-08 20:35:47,857 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-08 20:35:48,133 INFO  [Log] Clicking object - searchButton 
+2020-09-08 20:35:54,972 INFO  [Log] Add the first product from search results to the basket 
+2020-09-08 20:35:54,972 INFO  [Log] Adding the first Product from search results to the product basket 
+2020-09-08 20:35:54,972 INFO  [Log] Clicking object - firstProductaddToBasketButton 
+2020-09-08 20:36:00,506 INFO  [Log] Open the basket to validate the results 
+2020-09-08 20:36:00,506 INFO  [Log] Click on Product Basket 
+2020-09-08 20:36:00,506 INFO  [Log] Clicking object - productBasketLink 
+2020-09-08 20:36:08,067 INFO  [Log] Verifying partial text - productNameBasketLabel 
+2020-09-08 20:36:08,393 INFO  [Log] Product has been added successfully to the basket 
+2020-09-08 20:36:08,393 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-08 20:36:08,393 INFO  [Log] **************************************************************************************** 
+2020-09-08 20:36:08,393 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-08 20:36:08,393 INFO  [Log] **************************************************************************************** 
+2020-09-08 20:56:25,993 INFO  [Log] **************************************************************************************** 
+2020-09-08 20:56:25,994 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-09-08 20:56:25,994 INFO  [Log] **************************************************************************************** 
+2020-09-08 20:56:25,994 INFO  [Log] initialising properties.. 
+2020-09-08 20:56:25,994 INFO  [Log] Properties initialised! 
+2020-09-08 20:56:25,994 INFO  [Log] opening browser.. 
+2020-09-08 20:56:25,995 INFO  [Log] Chrome.. 
+2020-09-08 20:56:32,968 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-08 20:56:34,224 INFO  [Log] Get to Search Page and verify search box is found.. 
+2020-09-08 20:56:34,224 INFO  [Log] Checking Element Exists - searchTextBox 
+2020-09-08 20:56:37,443 INFO  [Log] User is on the Search page 
+2020-09-08 20:56:37,443 INFO  [Log] Search for the product 
+2020-09-08 20:56:37,443 INFO  [Log] Check if the Search box is loaded 
+2020-09-08 20:56:37,443 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-08 20:56:37,585 INFO  [Log] Enter Product in Search box and click Search 
+2020-09-08 20:56:37,585 INFO  [Log] Entering data - LR44 Button Battery into + searchTextBox 
+2020-09-08 20:56:37,900 INFO  [Log] Clicking object - searchButton 
+2020-09-08 20:56:43,153 INFO  [Log] Add the first product from search results to the basket 
+2020-09-08 20:56:43,153 INFO  [Log] Adding the first Product from search results to the product basket 
+2020-09-08 20:56:43,153 INFO  [Log] Clicking object - firstProductaddToBasketButton 
+2020-09-08 20:56:48,757 INFO  [Log] Open the basket to validate the results 
+2020-09-08 20:56:48,758 INFO  [Log] Click on Product Basket 
+2020-09-08 20:56:48,758 INFO  [Log] Clicking object - productBasketLink 
+2020-09-08 20:56:55,967 INFO  [Log] Verifying partial text - productNameBasketLabel 
+2020-09-08 20:56:56,317 INFO  [Log] Product has been added successfully to the basket 
+2020-09-08 20:56:56,317 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-08 20:56:56,318 INFO  [Log] **************************************************************************************** 
+2020-09-08 20:56:56,318 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-09-08 20:56:56,319 INFO  [Log] **************************************************************************************** 
